@@ -3,7 +3,7 @@
     "type":"library",
     "description":"A context-aware output escaping tool",
     "keywords":["escaping", "security", "xss"],
-    "homepage":"https://git.dev.pardot.com/chris-cornutt/breakout.git",
+    "homepage":"https://github.com/salesforceeng/breakout.git",
     "license":"MIT",
     "authors":[
         {
