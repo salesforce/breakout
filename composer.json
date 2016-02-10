@@ -4,7 +4,7 @@
     "description":"A context-aware output escaping tool",
     "keywords":["escaping", "security", "xss"],
     "homepage":"https://github.com/salesforceeng/breakout.git",
-    "license":"MIT",
+    "license":"BSD-3 Clause",
     "authors":[
         {
             "name":"Chris Cornutt",
