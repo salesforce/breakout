@@ -1,6 +1,8 @@
 Breakout: A Context-Aware Escaping Tool
 ====================
 
+*Licence:* BSD-3 Clause
+
 Breakout is designed to provide context-aware escaping. For example, escaping things for HTML has different needs than Javascript or URL values.
 The library will also handle the escaping of UTF-8 characters into their `\uXXXX` versions (it does this by default but it can be disabled by passing a `false` value in the `config` constructor configuration).
 
