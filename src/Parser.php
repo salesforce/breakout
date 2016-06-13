@@ -119,7 +119,7 @@ class Parser
             }
             $replaceWith = $object->$function();
         } else {
-            $replaceWith = $object->$settings['name'];
+            $replaceWith = $object->{$settings['name']};
         }
 
         return $replaceWith;
